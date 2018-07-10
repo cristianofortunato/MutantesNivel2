@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{90238B20-6619-4442-A7D3-D93797DA4E94}|Default">
+  <MonoDevelop.Ide.ItemProperties.Mutantes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mutantes/Controllers/MutantController.cs">
+    <Files>
+      <File FileName="Mutantes/Controllers/MutantController.cs" Line="36" Column="2" />
+      <File FileName="Classes/Mutant.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Mutantes" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
